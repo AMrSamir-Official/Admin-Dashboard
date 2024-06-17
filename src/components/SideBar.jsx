@@ -135,14 +135,14 @@ const SideBar = ({ open, handleDrawerClose }) => {
           border: "2px solid grey",
           transition: "0.25s",
         }}
-        alt="Remy Sharp"
-        src="https://media.allure.com/photos/5a26c1d8753d0c2eea9df033/3:4/w_1262,h_1683,c_limit/mostbeautiful.jpg"
+        alt="picture"
+        src="https://avatars.githubusercontent.com/u/166875160?v=4"
       />
       <Typography
         align="center"
         sx={{ fontSize: open ? 17 : 0, transition: "0.25s" }}
       >
-        Layla Ali
+      Amr Samir
       </Typography>
       <Typography
         align="center"
